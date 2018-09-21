@@ -1,0 +1,40 @@
+_repo: Persialaisia-kirjeita_53745
+_version: 0.0.1
+alternative_title: Lettres persanes. Finnish
+contributor:
+  translator:
+    agent_name: Lehtonen, J. V.
+    alias: Lehtonen, Johannes Vihtori
+    birthdate: 1883
+    deathdate: 1948
+    gutenberg_agent_id: '49411'
+    url: http://www.gutenberg.org/2009/agents/49411
+creator:
+  author:
+    agent_name: Montesquieu, Charles de Secondat, baron de
+    aliases:
+    - Montesquieu, Charles Louis de Secondat, baron de La Brede et de
+    - Montesquieu, Charles Louis de Secondat, baron de La Brède et de
+    birthdate: 1689
+    deathdate: 1755
+    gutenberg_agent_id: '26352'
+    url: http://www.gutenberg.org/2009/agents/26352
+    wikipedia: http://en.wikipedia.org/wiki/Charles_de_Secondat%2C_baron_de_Montesquieu
+description: ''
+gutenberg_issued: '2016-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53745'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe -- Social life and customs -- 18th century -- Fiction'
+- !lcsh 'East and West -- Fiction'
+- !lcsh 'Iranians -- Europe -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Epistolary fiction'
+- GITenberg
+title: Persialaisia kirjeitä
+url: http://www.gutenberg.org/ebooks/53745
